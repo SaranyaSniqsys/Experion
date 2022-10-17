@@ -1,0 +1,20 @@
+package com.experion.entity;
+
+public class Product {
+
+	String productCode;
+	String productName;
+	String productDescription;
+	double productPrice;
+	String quality;
+	String validityDate;
+	String expiryDate;
+	boolean active;
+	
+	
+	public void inputProductDetails()
+	{
+		
+	}
+
+}

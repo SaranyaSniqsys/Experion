@@ -1,0 +1,11 @@
+package com.experion.basicprogramming;
+
+public class VowelValidation {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

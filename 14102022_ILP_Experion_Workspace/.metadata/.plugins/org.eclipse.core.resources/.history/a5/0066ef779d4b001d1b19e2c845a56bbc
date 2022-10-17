@@ -1,0 +1,15 @@
+package com.ilpexperion.basicprogramming;
+
+public class Details {
+
+	
+	public static void main(String[] args) {
+		
+		String name="Saranya";
+		int age = 22;
+		char gender ='F';
+		double cgpa =8.1;
+		
+	}
+
+}

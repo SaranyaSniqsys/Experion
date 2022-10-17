@@ -1,0 +1,14 @@
+package com.experion.basicprogramming;
+
+import java.util.Scanner;
+
+public class VowelValidation {
+
+	public static void main(String[] args) {
+		
+		Scanner scanner = new Scanner(System.in);
+		
+
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.ilpexperion.basicprogramming;
+
+public class Details {
+
+	
+	public static void main(String[] args) {
+		System.out.println("*********Welcome to ILP Program**********");
+		System.out.println("Name   : Saranya K");
+		System.out.println("Age :22");
+		System.out.println("Gender  : F");
+		System.out.println("CGPA  : 8.1");
+
+	}
+
+}

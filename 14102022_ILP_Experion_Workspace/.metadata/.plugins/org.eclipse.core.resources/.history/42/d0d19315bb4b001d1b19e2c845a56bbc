@@ -1,0 +1,12 @@
+package com.ilpexperion.basicprogramming;
+
+public class SimpleIf {
+
+	public static void main(String[] args) {
+		
+		Scanner scanner = new Scanner(System.in);
+		
+
+	}
+
+}

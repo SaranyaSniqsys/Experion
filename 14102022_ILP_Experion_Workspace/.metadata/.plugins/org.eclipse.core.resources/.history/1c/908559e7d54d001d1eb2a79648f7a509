@@ -1,0 +1,15 @@
+package com.experion.entity;
+
+import java.util.Scanner;
+
+public class ProductUtlity {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		Product product = new Product();
+		product.inputProductDetails();
+		product.displayDetails();
+
+	}
+
+}

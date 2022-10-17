@@ -1,0 +1,38 @@
+package com.experion.basicprogramming;
+
+import java.util.Scanner;
+
+public class VowelValidation {
+
+	public static void main(String[] args) {
+
+		Scanner scanner = new Scanner(System.in);
+
+		System.out.println("Enter your choice");
+		char choice = scanner.next().charAt(0);
+		switch (choice) {
+
+		case 'a':
+			System.out.println('a');
+			break;
+		case 'b':
+			System.out.println('e');
+			break;
+		case 'c':
+			System.out.println('i');
+			break;
+		case 'd':
+			System.out.println('o');
+			break;
+		case 'e':
+			System.out.println('u');
+			break;
+
+		default:
+			System.out.println("Invalid choice");
+
+		}
+
+	}
+
+}
